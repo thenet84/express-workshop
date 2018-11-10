@@ -1,0 +1,22 @@
+{
+  "name": "express-workshop",
+  "version": "1.0.0",
+  "description": "Express Workshop Nodegirls",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thenet84/express-workshop.git"
+  },
+  "author": "Denet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thenet84/express-workshop/issues"
+  },
+  "homepage": "https://github.com/thenet84/express-workshop#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
