@@ -67,7 +67,7 @@ function addBlogpostsToPage (data) {
 
             thumbnail.src = "./img/logo2.png";
             thumbnail.className = "thumbnail";
-            postText.innerHTML = data[blogpost];
+            postText.innerHTML = data[blogpost].title;
             postDiv.className = "post";
 
             postDiv.appendChild(thumbnail);

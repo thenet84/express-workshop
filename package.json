@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/thenet84/express-workshop#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "express-formidable": "^1.2.0"
+    "express-formidable": "^1.2.0",
+    "mustache-express": "^1.2.8"
   },
   "devDependencies": {
     "nodemon": "^1.18.6"
